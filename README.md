@@ -1,4 +1,4 @@
-File Integrity Monitoring PowerShell Script
+File Integrity Monitoring w/PowerShell Scripts
 <br />
 
 <h2>Project Diagram</h2>
